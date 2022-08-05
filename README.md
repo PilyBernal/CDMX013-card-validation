@@ -1,15 +1,15 @@
-# TC VÁLIDA_PILY BERNAL
+# Tarjeta de Crédito Válida P_B
 
 ### Índice
-* 1.Descripción del proyecto
-* 2.Imagen del proyecto
-* 3.Investigación UX
+* (1.Descripción del proyecto)
+* (2.Imagen del proyecto)
+* (3.Investigación UX)
 
 ## 1. Descripción del proyecto
 
 Esta aplicación web permite al usuario validar un número de Tarjeta de Crédito, utilizando el algoritmo de Luhn, que además tiene implementadad la funcionalidad de enmascarar los primeros 12 dígitos con el símbolo "#", dejando visible solo los últimos 4.
 
-## 2. Imagen final del proyecto
+## 2. Imagen del proyecto
 
 ![Resultado final](/src/IMAGENES/FINAL.png)
 
