@@ -1,20 +1,20 @@
 # Tarjeta de Crédito Válida P_B
 
 ### Índice
-* 1.Descripción del proyecto!
-* 2.Imagen del proyecto!
-* 3.Investigación UX!
+* [1.Descripción del proyecto]
+* [2.Imagen del proyecto]
+* [3.Investigación UX]
 
-## 1. Descripción del proyecto
+## (1. Descripción del proyecto)
 
 Esta aplicación web permite al usuario validar un número de Tarjeta de Crédito, utilizando el algoritmo de Luhn, que además tiene implementadad la funcionalidad de enmascarar los primeros 12 dígitos con el símbolo "#", dejando visible solo los últimos 4.
 
-## 2. Imagen del proyecto
+## (2. Imagen del proyecto)
 
 ![Resultado final](/src/IMAGENES/FINAL.png)
 
 
-## 3. Investigación UX
+## (3. Investigación UX)
 
 1. _Usuarios y objetivos._ Esta aplicación fue diseñada para una cafetería que levanta pedidos en línea y hace entregas a domicilio, en el caso de pago con Tarjeta de Crédito y necesitará ser validada.
 
