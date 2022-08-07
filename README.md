@@ -1,6 +1,7 @@
 # Tarjeta de Crédito Válida P_B
 
-### Índice
+## Índice
+
  * [1. Descripción del proyecto](#1-descripción-del-proyecto)  
  * [2. Imagen del proyecto](#2-imagen-del-proyecto)  
  * [3. Investigación UX](#3-investigación-ux)  
