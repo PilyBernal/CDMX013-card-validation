@@ -1,9 +1,10 @@
-body{
-  font-family: alata;/*fuente o tipo de letra*/
+body {
+  font-family: alata;
+  /*fuente o tipo de letra*/
   margin: 0;
 }
 
-footer{
+footer {
   display: flex;
   height: 50px;
   padding: 5px;
@@ -15,7 +16,7 @@ footer{
   font-weight: 600;
 }
 
-header{
+header {
   display: flex;
   height: 50px;
   padding: 5px;
@@ -25,40 +26,56 @@ header{
   align-items: center;
 }
 
-.LOGO{
+.LOGO {
   display: flex;
   align-items: center;
   color: white;
   font-weight: 600;
 }
 
-.LOGO img{
+.LOGO img {
   max-width: 50px;
   max-height: 50px;
   margin-right: 10px;
 }
 
-a{
+a {
   text-decoration: none;
   color: white;
 }
 
-nav a{
-  font-weight: 600;/*Negritas/blanquitas*/
+nav a {
+  font-weight: 600;
+  /*Negritas/blanquitas*/
   padding-right: 50px;
 }
 
-nav a:hover{
-  color: #FA5CEA;/*Cambia de color al pasar el cursor*/
+nav a:hover {
+  color: #FA5CEA;
+  /*Cambia de color al pasar el cursor*/
 }
 
-#letreroValida{display:none}
-#letreroInvalida{display:none}
-#descripcion{display:block}
-#ingreso{display:block}
-#numero{display:none}
+#letreroValida {
+  display: none
+}
 
-p3{
+#letreroInvalida {
+  display: none
+}
+
+#descripcion {
+  display: block
+}
+
+#ingreso {
+  display: block
+}
+
+#numero {
+  display: none
+}
+
+p3 {
   text-align: center;
   display: flex;
   justify-content: space-around;
@@ -66,13 +83,13 @@ p3{
   font-size: x-large;
   color: green;
   background-color: white;
-  padding: 20px ;
+  padding: 20px;
   margin: auto;
   width: 300px;
   height: 5px;
 }
 
-p4{
+p4 {
   text-align: center;
   display: flex;
   justify-content: space-around;
@@ -80,13 +97,13 @@ p4{
   font-size: x-large;
   color: red;
   background-color: white;
-  padding: 20px ;
+  padding: 20px;
   margin: auto;
   width: 300px;
   height: 5px;
 }
 
-.textos{
+.textos {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -94,7 +111,7 @@ p4{
   text-align: center;
 }
 
-.inp{
+.inp {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -105,48 +122,55 @@ p4{
   margin-left: 430px;
 }
 
-h1{
-    text-align: center;
-    color: #FFFFFF;/*da color al texto*/
-    font-size: x-large;
-    background-color: #BB4FB0;/*color de relleno*/
-    padding: 20px ;/*margen interior*/
-    margin: auto;/*margen exterior, auto para centrar*/
-    width: 600px;/*ancho caja*/
-    height: 20px;/*altura caja*/
+h1 {
+  text-align: center;
+  color: #FFFFFF;
+  /*da color al texto*/
+  font-size: x-large;
+  background-color: #BB4FB0;
+  /*color de relleno*/
+  padding: 20px;
+  /*margen interior*/
+  margin: auto;
+  /*margen exterior, auto para centrar*/
+  width: 600px;
+  /*ancho caja*/
+  height: 20px;
+  /*altura caja*/
 }
 
-p1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: #FFFFFF;
-    background-color: #FA5CEA;
-    font-size: large;
-    padding: 10px ;
-    margin: auto;
-    width: 750px;
-    height: 30px;
+p1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #FA5CEA;
+  font-size: large;
+  padding: 10px;
+  margin: auto;
+  width: 750px;
+  height: 30px;
 }
 
-input{
+input {
   text-align: center;
   color: #746E6E;
-  background-color: #F8CEF3 ;
+  background-color: #F8CEF3;
   border: 2px #F8CEF3;
   font-size: large;
   width: 15px;
   height: 30px;
 }
 
-p2,p5{
-    text-align: center;
-    color: #BB4FB0;
-    background-color: #FDFDFD;
-    font-size: x-large;
-    padding: 20px ;
-    margin: auto;
-    width: 750px;
-    height: 30px;
+p2,
+p5 {
+  text-align: center;
+  color: #BB4FB0;
+  background-color: #FDFDFD;
+  font-size: x-large;
+  padding: 20px;
+  margin: auto;
+  width: 750px;
+  height: 30px;
 }
